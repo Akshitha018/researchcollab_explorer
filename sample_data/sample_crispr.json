@@ -1,0 +1,125 @@
+{
+  "dataset_name": "CRISPR-Cas Systems & Precision Genome Editing",
+  "topic": "CRISPR-Cas9, Base Editing, Prime Editing, Off-Target Cleavage, Cas12a",
+  "source": "Curated OpenAlex Benchmark Sample (Offline Mode)",
+  "publications": [
+    {
+      "id": "W2991001001",
+      "title": "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+      "publication_year": 2012,
+      "cited_by_count": 16800,
+      "primary_topic": "CRISPR-Cas9 Discovery",
+      "authors": [
+        {"id": "A5024111001", "name": "Jennifer A. Doudna", "institution": "UC Berkeley"},
+        {"id": "A5024111002", "name": "Emmanuelle Charpentier", "institution": "Max Planck Unit"},
+        {"id": "A5024111003", "name": "Martin Jinek", "institution": "University of Zurich"},
+        {"id": "A5024111004", "name": "Krzysztof Chylinski", "institution": "University of Vienna"}
+      ]
+    },
+    {
+      "id": "W2991001002",
+      "title": "Multiplex Genome Engineering Using CRISPR/Cas Systems",
+      "publication_year": 2013,
+      "cited_by_count": 14200,
+      "primary_topic": "Mammalian Cell Genome Editing",
+      "authors": [
+        {"id": "A5024111005", "name": "Feng Zhang", "institution": "Broad Institute of MIT and Harvard"},
+        {"id": "A5024111006", "name": "Le Cong", "institution": "Broad Institute of MIT and Harvard"},
+        {"id": "A5024111007", "name": "F. Ann Ran", "institution": "Broad Institute of MIT and Harvard"},
+        {"id": "A5024111008", "name": "David Cox", "institution": "Broad Institute of MIT and Harvard"}
+      ]
+    },
+    {
+      "id": "W2991001003",
+      "title": "RNA-Guided Human Genome Engineering via Cas9",
+      "publication_year": 2013,
+      "cited_by_count": 12100,
+      "primary_topic": "Human Genome Editing",
+      "authors": [
+        {"id": "A5024111009", "name": "George M. Church", "institution": "Harvard Medical School"},
+        {"id": "A5024111010", "name": "Prashant Mali", "institution": "UC San Diego"},
+        {"id": "A5024111011", "name": "Luhan Yang", "institution": "Harvard Medical School"},
+        {"id": "A5024111012", "name": "Kevin M. Esvelt", "institution": "MIT Media Lab"}
+      ]
+    },
+    {
+      "id": "W2991001004",
+      "title": "Programmable Editing of a Target Base in Genomic DNA without Double-Stranded DNA Cleavage",
+      "publication_year": 2016,
+      "cited_by_count": 5200,
+      "primary_topic": "Base Editing",
+      "authors": [
+        {"id": "A5024111013", "name": "David R. Liu", "institution": "Broad Institute & Harvard"},
+        {"id": "A5024111014", "name": "Alexis C. Komor", "institution": "UC San Diego"},
+        {"id": "A5024111015", "name": "Yongjoo Kim", "institution": "Harvard University"},
+        {"id": "A5024111016", "name": "Michael S. Packer", "institution": "Harvard University"}
+      ]
+    },
+    {
+      "id": "W2991001005",
+      "title": "Search-and-Replace Genome Editing Without Double-Strand Breaks or Donor DNA (Prime Editing)",
+      "publication_year": 2019,
+      "cited_by_count": 4100,
+      "primary_topic": "Prime Editing",
+      "authors": [
+        {"id": "A5024111013", "name": "David R. Liu", "institution": "Broad Institute & Harvard"},
+        {"id": "A5024111017", "name": "Andrew V. Anzalone", "institution": "Broad Institute"},
+        {"id": "A5024111018", "name": "Peyton B. Randolph", "institution": "Broad Institute"},
+        {"id": "A5024111019", "name": "Jordan R. Davis", "institution": "Harvard University"}
+      ]
+    },
+    {
+      "id": "W2991001006",
+      "title": "Cpf1 is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System",
+      "publication_year": 2015,
+      "cited_by_count": 3900,
+      "primary_topic": "Cas12a Enzymes",
+      "authors": [
+        {"id": "A5024111005", "name": "Feng Zhang", "institution": "Broad Institute of MIT and Harvard"},
+        {"id": "A5024111020", "name": "Bernd Zetsche", "institution": "Broad Institute"},
+        {"id": "A5024111021", "name": "Jonathan S. Gootenberg", "institution": "Broad Institute"},
+        {"id": "A5024111022", "name": "Omar O. Abudayyeh", "institution": "Broad Institute"},
+        {"id": "A5024111023", "name": "Eugene V. Koonin", "institution": "NCBI NIH"}
+      ]
+    },
+    {
+      "id": "W2991001007",
+      "title": "CRISPR-Cas9 Knockout Screening in Human Cells for Functional Genomics",
+      "publication_year": 2014,
+      "cited_by_count": 4800,
+      "primary_topic": "Genome-Wide Screening",
+      "authors": [
+        {"id": "A5024111005", "name": "Feng Zhang", "institution": "Broad Institute of MIT and Harvard"},
+        {"id": "A5024111024", "name": "Ophir Shalem", "institution": "Broad Institute"},
+        {"id": "A5024111025", "name": "Neville E. Sanjana", "institution": "New York Genome Center"},
+        {"id": "A5024111009", "name": "George M. Church", "institution": "Harvard Medical School"}
+      ]
+    },
+    {
+      "id": "W2991001008",
+      "title": "Structures of the Cas9 Endonuclease in Complex with Target DNA and Guide RNA",
+      "publication_year": 2014,
+      "cited_by_count": 2700,
+      "primary_topic": "Structural Biology of Cas9",
+      "authors": [
+        {"id": "A5024111001", "name": "Jennifer A. Doudna", "institution": "UC Berkeley"},
+        {"id": "A5024111003", "name": "Martin Jinek", "institution": "University of Zurich"},
+        {"id": "A5024111026", "name": "Hiroshi Nishimasu", "institution": "University of Tokyo"},
+        {"id": "A5024111005", "name": "Feng Zhang", "institution": "Broad Institute of MIT and Harvard"},
+        {"id": "A5024111027", "name": "Osamu Nureki", "institution": "University of Tokyo"}
+      ]
+    },
+    {
+      "id": "W2991001009",
+      "title": "Therapeutic Base Editing of PCSK9 in Nonhuman Primates",
+      "publication_year": 2021,
+      "cited_by_count": 1350,
+      "primary_topic": "In Vivo Therapeutics",
+      "authors": [
+        {"id": "A5024111013", "name": "David R. Liu", "institution": "Broad Institute & Harvard"},
+        {"id": "A5024111028", "name": "Kiran Musunuru", "institution": "University of Pennsylvania"},
+        {"id": "A5024111029", "name": "Aravind Asokan", "institution": "Duke University"}
+      ]
+    }
+  ]
+}

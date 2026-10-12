@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Temporary / generated HTML (PyVis output) and its asset folder
+*.html
+lib/
+
+# Datasets: keep only the README and the tiny sample file in Git
+data/*
+!data/README.md
+!data/sample_edges.csv
+
+# Streamlit secrets and local settings
+.streamlit/secrets.toml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+{
+  "name": "ResearchCollab Explorer",
+  "description": "Research Collaboration Network Analysis and Visualization Using Graph Theory",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

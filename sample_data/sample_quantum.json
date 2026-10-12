@@ -1,0 +1,153 @@
+{
+  "dataset_name": "Quantum Information & Computing Architectures",
+  "topic": "Quantum Error Correction, Superconducting Qubits, Quantum Supremacy, Quantum Algorithms",
+  "source": "Curated OpenAlex Benchmark Sample (Offline Mode)",
+  "publications": [
+    {
+      "id": "W2981109001",
+      "title": "Quantum Computational Advantage Using Photonic Qubits",
+      "publication_year": 2020,
+      "cited_by_count": 4800,
+      "primary_topic": "Photonic Quantum Computing",
+      "authors": [
+        {"id": "A5023999001", "name": "Han-Sen Zhong", "institution": "USTC"},
+        {"id": "A5023999002", "name": "Hui Wang", "institution": "USTC"},
+        {"id": "A5023999003", "name": "Yu-Hao Deng", "institution": "USTC"},
+        {"id": "A5023999004", "name": "Chao-Yang Lu", "institution": "USTC"},
+        {"id": "A5023999005", "name": "Jian-Wei Pan", "institution": "USTC"}
+      ]
+    },
+    {
+      "id": "W2981109002",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "publication_year": 2019,
+      "cited_by_count": 8700,
+      "primary_topic": "Superconducting Qubits",
+      "authors": [
+        {"id": "A5023999006", "name": "Frank Arute", "institution": "Google Quantum AI"},
+        {"id": "A5023999007", "name": "Kunal Arya", "institution": "Google Quantum AI"},
+        {"id": "A5023999008", "name": "John M. Martinis", "institution": "UC Santa Barbara"},
+        {"id": "A5023999009", "name": "Sergio Boixo", "institution": "Google Quantum AI"},
+        {"id": "A5023999010", "name": "Hartmut Neven", "institution": "Google Quantum AI"}
+      ]
+    },
+    {
+      "id": "W2981109003",
+      "title": "Characterizing Quantum Supremacy in Near-Term Devices",
+      "publication_year": 2018,
+      "cited_by_count": 2100,
+      "primary_topic": "Random Circuit Sampling",
+      "authors": [
+        {"id": "A5023999009", "name": "Sergio Boixo", "institution": "Google Quantum AI"},
+        {"id": "A5023999008", "name": "John M. Martinis", "institution": "UC Santa Barbara"},
+        {"id": "A5023999010", "name": "Hartmut Neven", "institution": "Google Quantum AI"}
+      ]
+    },
+    {
+      "id": "W2981109004",
+      "title": "Quantum Computing in the NISQ Era and Beyond",
+      "publication_year": 2018,
+      "cited_by_count": 6900,
+      "primary_topic": "NISQ Architectures",
+      "authors": [
+        {"id": "A5023999011", "name": "John Preskill", "institution": "Caltech"}
+      ]
+    },
+    {
+      "id": "W2981109005",
+      "title": "Fault-Tolerant Quantum Computation with Surface Codes",
+      "publication_year": 2012,
+      "cited_by_count": 3900,
+      "primary_topic": "Surface Codes",
+      "authors": [
+        {"id": "A5023999012", "name": "Austin G. Fowler", "institution": "Google Quantum AI"},
+        {"id": "A5023999013", "name": "Matteo Mariantoni", "institution": "University of Waterloo"},
+        {"id": "A5023999008", "name": "John M. Martinis", "institution": "UC Santa Barbara"},
+        {"id": "A5023999014", "name": "Andrew N. Cleland", "institution": "University of Chicago"}
+      ]
+    },
+    {
+      "id": "W2981109006",
+      "title": "Suppressing Quantum Errors by Scaling a Quantum Error-Correcting Code",
+      "publication_year": 2023,
+      "cited_by_count": 1800,
+      "primary_topic": "Logical Qubits",
+      "authors": [
+        {"id": "A5023999012", "name": "Austin G. Fowler", "institution": "Google Quantum AI"},
+        {"id": "A5023999007", "name": "Kunal Arya", "institution": "Google Quantum AI"},
+        {"id": "A5023999010", "name": "Hartmut Neven", "institution": "Google Quantum AI"}
+      ]
+    },
+    {
+      "id": "W2981109007",
+      "title": "Demonstration of Quantum Volume in Scalable Superconducting Architectures",
+      "publication_year": 2020,
+      "cited_by_count": 1300,
+      "primary_topic": "Quantum Volume & Benchmarking",
+      "authors": [
+        {"id": "A5023999015", "name": "Jay M. Gambetta", "institution": "IBM Quantum"},
+        {"id": "A5023999016", "name": "Jerry M. Chow", "institution": "IBM Quantum"},
+        {"id": "A5023999017", "name": "Andrew W. Cross", "institution": "IBM Quantum"},
+        {"id": "A5023999018", "name": "Sarah Sheldon", "institution": "IBM Quantum"}
+      ]
+    },
+    {
+      "id": "W2981109008",
+      "title": "Validating Quantum Processors by Randomized Benchmarking",
+      "publication_year": 2019,
+      "cited_by_count": 920,
+      "primary_topic": "Gate Fidelity",
+      "authors": [
+        {"id": "A5023999017", "name": "Andrew W. Cross", "institution": "IBM Quantum"},
+        {"id": "A5023999015", "name": "Jay M. Gambetta", "institution": "IBM Quantum"},
+        {"id": "A5023999019", "name": "Lev S. Bishop", "institution": "IBM Quantum"}
+      ]
+    },
+    {
+      "id": "W2981109009",
+      "title": "Quantum Circuit Optimization for Variational Quantum Algorithms",
+      "publication_year": 2021,
+      "cited_by_count": 890,
+      "primary_topic": "VQE Optimization",
+      "authors": [
+        {"id": "A5023999015", "name": "Jay M. Gambetta", "institution": "IBM Quantum"},
+        {"id": "A5023999011", "name": "John Preskill", "institution": "Caltech"},
+        {"id": "A5023999020", "name": "Alán Aspuru-Guzik", "institution": "University of Toronto"}
+      ]
+    },
+    {
+      "id": "W2981109010",
+      "title": "Algorithms for Quantum Computation: Discrete Logarithms and Factoring",
+      "publication_year": 1994,
+      "cited_by_count": 15400,
+      "primary_topic": "Quantum Algorithms",
+      "authors": [
+        {"id": "A5023999021", "name": "Peter W. Shor", "institution": "MIT"}
+      ]
+    },
+    {
+      "id": "W2981109011",
+      "title": "Quantum Error Correction and Fault-Tolerant Quantum Memory",
+      "publication_year": 2002,
+      "cited_by_count": 3100,
+      "primary_topic": "Shor Error Correction",
+      "authors": [
+        {"id": "A5023999021", "name": "Peter W. Shor", "institution": "MIT"},
+        {"id": "A5023999011", "name": "John Preskill", "institution": "Caltech"}
+      ]
+    },
+    {
+      "id": "W2981109012",
+      "title": "Quantum Simulation of Electronic Structure with Quantum Computers",
+      "publication_year": 2019,
+      "cited_by_count": 2400,
+      "primary_topic": "Quantum Chemistry",
+      "authors": [
+        {"id": "A5023999020", "name": "Alán Aspuru-Guzik", "institution": "University of Toronto"},
+        {"id": "A5023999022", "name": "Ryan Babbush", "institution": "Google Quantum AI"},
+        {"id": "A5023999008", "name": "John M. Martinis", "institution": "UC Santa Barbara"},
+        {"id": "A5023999010", "name": "Hartmut Neven", "institution": "Google Quantum AI"}
+      ]
+    }
+  ]
+}

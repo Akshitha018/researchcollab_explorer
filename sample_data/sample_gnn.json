@@ -1,0 +1,325 @@
+{
+  "dataset_name": "Graph Neural Networks & Geometric Deep Learning",
+  "topic": "Graph Neural Networks, Graph Convolutional Networks, Geometric Deep Learning, Representation Learning",
+  "source": "Curated OpenAlex Benchmark Sample (Offline Mode)",
+  "publications": [
+    {
+      "id": "W2741809807",
+      "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "publication_year": 2017,
+      "cited_by_count": 18500,
+      "primary_topic": "Graph Convolutional Networks",
+      "authors": [
+        {"id": "A5023888001", "name": "Thomas N. Kipf", "institution": "University of Amsterdam"},
+        {"id": "A5023888002", "name": "Max Welling", "institution": "University of Amsterdam"}
+      ]
+    },
+    {
+      "id": "W2755294812",
+      "title": "Variational Graph Auto-Encoders",
+      "publication_year": 2016,
+      "cited_by_count": 4200,
+      "primary_topic": "Graph Autoencoders",
+      "authors": [
+        {"id": "A5023888001", "name": "Thomas N. Kipf", "institution": "University of Amsterdam"},
+        {"id": "A5023888002", "name": "Max Welling", "institution": "University of Amsterdam"}
+      ]
+    },
+    {
+      "id": "W2963401122",
+      "title": "Graph Attention Networks",
+      "publication_year": 2018,
+      "cited_by_count": 12400,
+      "primary_topic": "Attention Mechanisms on Graphs",
+      "authors": [
+        {"id": "A5023888003", "name": "Petar Veličković", "institution": "University of Cambridge"},
+        {"id": "A5023888004", "name": "Guillem Cucurull", "institution": "Autonomous University of Barcelona"},
+        {"id": "A5023888005", "name": "Arantxa Casanova", "institution": "Autonomous University of Barcelona"},
+        {"id": "A5023888006", "name": "Adriana Romero-Soriano", "institution": "Mila - Quebec AI Institute"},
+        {"id": "A5023888007", "name": "Pietro Liò", "institution": "University of Cambridge"},
+        {"id": "A5023888008", "name": "Yoshua Bengio", "institution": "Mila - Quebec AI Institute"}
+      ]
+    },
+    {
+      "id": "W2963401123",
+      "title": "Inductive Representation Learning on Large Graphs (GraphSAGE)",
+      "publication_year": 2017,
+      "cited_by_count": 9800,
+      "primary_topic": "Inductive Node Embedding",
+      "authors": [
+        {"id": "A5023888009", "name": "William L. Hamilton", "institution": "Stanford University"},
+        {"id": "A5023888010", "name": "Rex Ying", "institution": "Stanford University"},
+        {"id": "A5023888011", "name": "Jure Leskovec", "institution": "Stanford University"}
+      ]
+    },
+    {
+      "id": "W2963401124",
+      "title": "Hierarchical Graph Representation Learning with Differentiable Pooling (DiffPool)",
+      "publication_year": 2018,
+      "cited_by_count": 3100,
+      "primary_topic": "Graph Pooling",
+      "authors": [
+        {"id": "A5023888010", "name": "Rex Ying", "institution": "Stanford University"},
+        {"id": "A5023888012", "name": "Jiaxuan You", "institution": "Stanford University"},
+        {"id": "A5023888013", "name": "Christopher Morris", "institution": "RWTH Aachen University"},
+        {"id": "A5023888011", "name": "Jure Leskovec", "institution": "Stanford University"}
+      ]
+    },
+    {
+      "id": "W2963401125",
+      "title": "Geometric Deep Learning: Going beyond Euclidean data",
+      "publication_year": 2017,
+      "cited_by_count": 5200,
+      "primary_topic": "Geometric Deep Learning",
+      "authors": [
+        {"id": "A5023888014", "name": "Michael M. Bronstein", "institution": "Imperial College London"},
+        {"id": "A5023888015", "name": "Joan Bruna", "institution": "New York University"},
+        {"id": "A5023888016", "name": "Yann LeCun", "institution": "New York University"},
+        {"id": "A5023888017", "name": "Arthur Szlam", "institution": "Meta AI Research"},
+        {"id": "A5023888018", "name": "Pierre Vandergheynst", "institution": "EPFL"}
+      ]
+    },
+    {
+      "id": "W2963401126",
+      "title": "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges",
+      "publication_year": 2021,
+      "cited_by_count": 2100,
+      "primary_topic": "Geometric Deep Learning Blueprint",
+      "authors": [
+        {"id": "A5023888014", "name": "Michael M. Bronstein", "institution": "University of Oxford"},
+        {"id": "A5023888015", "name": "Joan Bruna", "institution": "New York University"},
+        {"id": "A5023888019", "name": "Taco Cohen", "institution": "Qualcomm AI Research"},
+        {"id": "A5023888003", "name": "Petar Veličković", "institution": "DeepMind"}
+      ]
+    },
+    {
+      "id": "W2963401127",
+      "title": "How Powerful are Graph Neural Networks?",
+      "publication_year": 2019,
+      "cited_by_count": 6400,
+      "primary_topic": "Weisfeiler-Lehman Isomorphism Test & Expressiveness",
+      "authors": [
+        {"id": "A5023888020", "name": "Keyulu Xu", "institution": "MIT"},
+        {"id": "A5023888021", "name": "Weihua Hu", "institution": "Stanford University"},
+        {"id": "A5023888011", "name": "Jure Leskovec", "institution": "Stanford University"},
+        {"id": "A5023888022", "name": "Stefanie Jegelka", "institution": "MIT"}
+      ]
+    },
+    {
+      "id": "W2963401128",
+      "title": "Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks",
+      "publication_year": 2019,
+      "cited_by_count": 1850,
+      "primary_topic": "Higher-Order Graph Networks",
+      "authors": [
+        {"id": "A5023888013", "name": "Christopher Morris", "institution": "RWTH Aachen University"},
+        {"id": "A5023888023", "name": "Martin Ritzert", "institution": "RWTH Aachen University"},
+        {"id": "A5023888024", "name": "Matthias Fey", "institution": "TU Dortmund University"},
+        {"id": "A5023888025", "name": "William L. Hamilton", "institution": "McGill University"}
+      ]
+    },
+    {
+      "id": "W2963401129",
+      "title": "Fast Graph Representation Learning with PyTorch Geometric (PyG)",
+      "publication_year": 2019,
+      "cited_by_count": 5900,
+      "primary_topic": "Deep Learning Frameworks for Graphs",
+      "authors": [
+        {"id": "A5023888024", "name": "Matthias Fey", "institution": "TU Dortmund University"},
+        {"id": "A5023888026", "name": "Jan Eric Lenssen", "institution": "TU Dortmund University"}
+      ]
+    },
+    {
+      "id": "W2963401130",
+      "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+      "publication_year": 2020,
+      "cited_by_count": 3800,
+      "primary_topic": "Graph Benchmarks",
+      "authors": [
+        {"id": "A5023888021", "name": "Weihua Hu", "institution": "Stanford University"},
+        {"id": "A5023888024", "name": "Matthias Fey", "institution": "TU Dortmund University"},
+        {"id": "A5023888027", "name": "Marinka Zitnik", "institution": "Harvard University"},
+        {"id": "A5023888010", "name": "Rex Ying", "institution": "Stanford University"},
+        {"id": "A5023888011", "name": "Jure Leskovec", "institution": "Stanford University"}
+      ]
+    },
+    {
+      "id": "W2963401131",
+      "title": "Graph Convolutional Policy Network for Goal-Directed Molecular Generation",
+      "publication_year": 2018,
+      "cited_by_count": 1400,
+      "primary_topic": "Molecular Generation",
+      "authors": [
+        {"id": "A5023888012", "name": "Jiaxuan You", "institution": "Stanford University"},
+        {"id": "A5023888010", "name": "Rex Ying", "institution": "Stanford University"},
+        {"id": "A5023888028", "name": "Xiang Ren", "institution": "USC"},
+        {"id": "A5023888011", "name": "Jure Leskovec", "institution": "Stanford University"}
+      ]
+    },
+    {
+      "id": "W2963401132",
+      "title": "Deep Graph Infomax",
+      "publication_year": 2019,
+      "cited_by_count": 3200,
+      "primary_topic": "Self-Supervised Graph Learning",
+      "authors": [
+        {"id": "A5023888003", "name": "Petar Veličković", "institution": "University of Cambridge"},
+        {"id": "A5023888029", "name": "William Fedus", "institution": "Mila - Quebec AI Institute"},
+        {"id": "A5023888009", "name": "William L. Hamilton", "institution": "McGill University"},
+        {"id": "A5023888007", "name": "Pietro Liò", "institution": "University of Cambridge"},
+        {"id": "A5023888008", "name": "Yoshua Bengio", "institution": "Mila - Quebec AI Institute"},
+        {"id": "A5023888030", "name": "R Devon Hjelm", "institution": "Mila - Quebec AI Institute"}
+      ]
+    },
+    {
+      "id": "W2963401133",
+      "title": "Neural Execution of Graph Algorithms",
+      "publication_year": 2020,
+      "cited_by_count": 750,
+      "primary_topic": "Algorithmic Reasoning",
+      "authors": [
+        {"id": "A5023888003", "name": "Petar Veličković", "institution": "DeepMind"},
+        {"id": "A5023888010", "name": "Rex Ying", "institution": "Stanford University"},
+        {"id": "A5023888031", "name": "Matilde Padovano", "institution": "University of Cambridge"},
+        {"id": "A5023888007", "name": "Pietro Liò", "institution": "University of Cambridge"},
+        {"id": "A5023888032", "name": "Charles Blundell", "institution": "DeepMind"}
+      ]
+    },
+    {
+      "id": "W2963401134",
+      "title": "Equivariant Message Passing for 3D Molecular Graphs (E(n)-GNN)",
+      "publication_year": 2021,
+      "cited_by_count": 2800,
+      "primary_topic": "Equivariant Neural Networks",
+      "authors": [
+        {"id": "A5023888033", "name": "Victor Garcia Satorras", "institution": "University of Amsterdam"},
+        {"id": "A5023888034", "name": "Emiel Hoogeboom", "institution": "University of Amsterdam"},
+        {"id": "A5023888002", "name": "Max Welling", "institution": "University of Amsterdam"}
+      ]
+    },
+    {
+      "id": "W2963401135",
+      "title": "Diffusion Probabilistic Models for 3D Molecule Generation",
+      "publication_year": 2022,
+      "cited_by_count": 1600,
+      "primary_topic": "Equivariant Diffusion",
+      "authors": [
+        {"id": "A5023888034", "name": "Emiel Hoogeboom", "institution": "University of Amsterdam"},
+        {"id": "A5023888033", "name": "Victor Garcia Satorras", "institution": "University of Amsterdam"},
+        {"id": "A5023888035", "name": "Clément Vignac", "institution": "EPFL"},
+        {"id": "A5023888002", "name": "Max Welling", "institution": "University of Amsterdam"}
+      ]
+    },
+    {
+      "id": "W2963401136",
+      "title": "Graph Structure Learning for Robust Graph Neural Networks",
+      "publication_year": 2020,
+      "cited_by_count": 1100,
+      "primary_topic": "Graph Structure Learning",
+      "authors": [
+        {"id": "A5023888036", "name": "Wei Jin", "institution": "Michigan State University"},
+        {"id": "A5023888037", "name": "Yao Ma", "institution": "Michigan State University"},
+        {"id": "A5023888038", "name": "Xiaorui Liu", "institution": "Michigan State University"},
+        {"id": "A5023888039", "name": "Xianfeng Tang", "institution": "Penn State University"},
+        {"id": "A5023888040", "name": "Suhang Wang", "institution": "Penn State University"},
+        {"id": "A5023888041", "name": "Jiliang Tang", "institution": "Michigan State University"}
+      ]
+    },
+    {
+      "id": "W2963401137",
+      "title": "A Comprehensive Survey on Graph Neural Networks",
+      "publication_year": 2020,
+      "cited_by_count": 8900,
+      "primary_topic": "Surveys and Taxonomies",
+      "authors": [
+        {"id": "A5023888042", "name": "Zonghan Wu", "institution": "UTS"},
+        {"id": "A5023888043", "name": "Shirui Pan", "institution": "Monash University"},
+        {"id": "A5023888044", "name": "Fengwen Chen", "institution": "UTS"},
+        {"id": "A5023888045", "name": "Guodong Long", "institution": "UTS"},
+        {"id": "A5023888046", "name": "Chengqi Zhang", "institution": "UTS"},
+        {"id": "A5023888047", "name": "Philip S. Yu", "institution": "University of Illinois at Chicago"}
+      ]
+    },
+    {
+      "id": "W2963401138",
+      "title": "Graph Neural Networks in Recommender Systems: A Survey",
+      "publication_year": 2022,
+      "cited_by_count": 1450,
+      "primary_topic": "Recommender Systems",
+      "authors": [
+        {"id": "A5023888048", "name": "Shiwen Wu", "institution": "Tsinghua University"},
+        {"id": "A5023888049", "name": "Fei Sun", "institution": "Alibaba Group"},
+        {"id": "A5023888050", "name": "Wentao Zhang", "institution": "Peking University"},
+        {"id": "A5023888051", "name": "Xu Chen", "institution": "Renmin University"},
+        {"id": "A5023888052", "name": "Bin Cui", "institution": "Peking University"},
+        {"id": "A5023888047", "name": "Philip S. Yu", "institution": "University of Illinois at Chicago"}
+      ]
+    },
+    {
+      "id": "W2963401139",
+      "title": "Understanding the Expressive Power of Graph Neural Networks through Subgraph Isomorphism",
+      "publication_year": 2021,
+      "cited_by_count": 820,
+      "primary_topic": "Theoretical Graph Expressiveness",
+      "authors": [
+        {"id": "A5023888013", "name": "Christopher Morris", "institution": "RWTH Aachen University"},
+        {"id": "A5023888022", "name": "Stefanie Jegelka", "institution": "MIT"},
+        {"id": "A5023888020", "name": "Keyulu Xu", "institution": "MIT"},
+        {"id": "A5023888014", "name": "Michael M. Bronstein", "institution": "University of Oxford"}
+      ]
+    },
+    {
+      "id": "W2963401140",
+      "title": "Sheaf Neural Networks: A Topological Framework for Heterophilic Graphs",
+      "publication_year": 2022,
+      "cited_by_count": 480,
+      "primary_topic": "Cellular Sheaves on Graphs",
+      "authors": [
+        {"id": "A5023888053", "name": "Cristian Bodnar", "institution": "University of Cambridge"},
+        {"id": "A5023888054", "name": "Fabrizio Frasca", "institution": "Imperial College London"},
+        {"id": "A5023888003", "name": "Petar Veličković", "institution": "DeepMind"},
+        {"id": "A5023888007", "name": "Pietro Liò", "institution": "University of Cambridge"},
+        {"id": "A5023888014", "name": "Michael M. Bronstein", "institution": "University of Oxford"}
+      ]
+    },
+    {
+      "id": "W2963401141",
+      "title": "Oversmoothing in Graph Neural Networks: Quantitative Analysis and Solutions",
+      "publication_year": 2020,
+      "cited_by_count": 1350,
+      "primary_topic": "Oversmoothing Dynamics",
+      "authors": [
+        {"id": "A5023888055", "name": "Deli Chen", "institution": "Peking University"},
+        {"id": "A5023888056", "name": "Yankai Lin", "institution": "Renmin University"},
+        {"id": "A5023888036", "name": "Wei Jin", "institution": "Michigan State University"},
+        {"id": "A5023888041", "name": "Jiliang Tang", "institution": "Michigan State University"}
+      ]
+    },
+    {
+      "id": "W2963401142",
+      "title": "Physics-Informed Graph Neural Networks for Dynamical Systems",
+      "publication_year": 2021,
+      "cited_by_count": 910,
+      "primary_topic": "Graph Simulation",
+      "authors": [
+        {"id": "A5023888001", "name": "Thomas N. Kipf", "institution": "Google Research"},
+        {"id": "A5023888057", "name": "Alvaro Sanchez-Gonzalez", "institution": "DeepMind"},
+        {"id": "A5023888003", "name": "Petar Veličković", "institution": "DeepMind"},
+        {"id": "A5023888032", "name": "Charles Blundell", "institution": "DeepMind"}
+      ]
+    },
+    {
+      "id": "W2963401143",
+      "title": "Pre-training Graph Neural Networks with Self-Supervised Masked Autoencoding",
+      "publication_year": 2022,
+      "cited_by_count": 890,
+      "primary_topic": "Graph Masked Autoencoders",
+      "authors": [
+        {"id": "A5023888021", "name": "Weihua Hu", "institution": "Stanford University"},
+        {"id": "A5023888010", "name": "Rex Ying", "institution": "Stanford University"},
+        {"id": "A5023888020", "name": "Keyulu Xu", "institution": "MIT"},
+        {"id": "A5023888011", "name": "Jure Leskovec", "institution": "Stanford University"}
+      ]
+    }
+  ]
+}
