@@ -127,28 +127,3 @@ Remove-Item Env:RUN_OPENALEX_INTEGRATION
 
 This requires network access and makes one OpenAlex Works search request for at most 10 works (8-second read timeout). It does not print researcher names, contact information or API keys. A live test can fail because of network or service availability; mocked tests remain offline and deterministic.
 
-## Viva / oral-defense questions
-
-1. **Why is co-authorship modeled as undirected?**  
-   Authorship of the same work is mutual: if A and B co-author it, each is a co-author of the other. Citation links, unlike co-authorship, are directed.
-
-2. **What does an edge weight mean?**  
-   It is the number of returned corpus works shared by the two endpoint researchers. It measures tie strength within this corpus, not the total collaboration history of either author.
-
-3. **How do degree and weighted degree differ?**  
-   Degree counts distinct direct collaborators. Weighted degree sums the shared-work counts across those ties.
-
-4. **How do PageRank and betweenness differ?**  
-   Weighted PageRank reflects connections to other well-connected researchers. Betweenness measures how often a node lies on shortest paths between other nodes; in this implementation those paths are unweighted.
-
-5. **Why calculate path metrics on the largest connected component?**  
-   Shortest paths between disconnected components do not exist. Restricting these metrics to the largest connected component gives finite distances and makes the scope explicit.
-
-6. **What does modularity describe?**  
-   It compares within-community edge concentration with a degree-based random-network null model. A high value can indicate structure in this graph, but does not prove that the groups are disciplines or causal collaborations.
-
-7. **What are the main co-authorship network limitations?**  
-   Author disambiguation errors, incomplete query samples, equal co-author credit and hyper-authorship can all materially affect graph statistics.
-
-8. **How does the app distinguish sample and live data?**  
-   Local JSON files set `is_live=False` and carry an offline-sample source note; successful OpenAlex responses set `is_live=True`. The sidebar badge reads that loaded-dataset flag.
